@@ -1,5 +1,5 @@
 print("Heyy Annie")
 print("I am learning Git")
 print("Another Change")
-print("Git is awesome")
+print("Hello from git conflict branch")
 print("Caluclator Feature")
