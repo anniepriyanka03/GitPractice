@@ -1,3 +1,5 @@
 print("Heyy Annie")
 print("I am learning Git")
 print("Another Change")
+print("Git is awesome")
+print("Caluclator Feature")
